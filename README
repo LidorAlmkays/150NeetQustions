@@ -1,0 +1,52 @@
+# NeetCode 150 Answers
+
+This repository contains my solutions to the [NeetCode 150](https://neetcode.io/) coding interview questions. NeetCode is a curated list of 150 essential coding problems that cover various topics commonly asked in technical interviews.
+
+## Project Purpose
+
+The goal of this project is to provide a well-organized collection of my solutions to the NeetCode 150 questions. Each solution is accompanied by explanations, optimizations, and my thought process behind the approach.
+
+## Topics Covered
+
+The repository includes solutions across the following topics:
+
+- **Arrays and Hashing**
+- **Two Pointers**
+- **Sliding Window**
+- **Linked Lists**
+- **Trees**
+- **Graphs**
+- **Dynamic Programming**
+- **Recursion**
+- **Backtracking**
+- **Greedy Algorithms**
+- **Bit Manipulation**
+- **Binary Search**
+- **Heap / Priority Queue**
+- **Sorting and Searching**
+
+## Structure
+
+The project is organized by categories that correspond to the main topics of the NeetCode 150 list. Inside each category folder, you will find:
+
+- A separate file for each question.
+- Code solutions in various languages (Python, JavaScript, etc.), depending on what I feel comfortable with or what is best suited for the problem.
+- Detailed explanations for each solution, including time and space complexity analysis.
+
+## How to Use
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/LidorAlmkays/150NeetQustions.git
+   ```
+1. Navigate to the folder corresponding to the topic you're interested in.
+1. Open the file corresponding to the problem you want to explore.
+1. Review the solution and explanation provided.
+
+## Contributing
+
+If you notice any mistakes, or if you have better solutions or explanations, feel free to open a pull request. Contributions are welcome!
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
