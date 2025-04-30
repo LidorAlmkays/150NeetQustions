@@ -35,6 +35,7 @@ partial class Program
         var solution = new Solution();
         var result = solution.CanJump(heights);
         Console.WriteLine($"{testcount}) Result: {result}");
+        testcount++;
     }
 
 }

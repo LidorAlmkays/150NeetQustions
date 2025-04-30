@@ -57,6 +57,7 @@ partial class Program
         var solution = new Solution();
         var result = solution.MaxArea(heights);
         Console.WriteLine($"{testcount}) Result: {result}");
+        testcount++;
     }
 
 }

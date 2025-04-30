@@ -73,6 +73,7 @@ partial class Program
         var solution = new Solution();
         var result = solution.Trap(heights);
         Console.WriteLine($"{testcount}) Result: {result}");
+        testcount++;
     }
 
 }
