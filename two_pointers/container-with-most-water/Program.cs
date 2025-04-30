@@ -42,7 +42,7 @@ partial class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Testing container with most water");
+        Console.WriteLine("Testing");
         Test([1, 7, 2, 5, 4, 7, 3, 6]);
         Test([2, 2, 2]);
         Test([1, 7, 2, 5, 4, 7, 3, 4]);
@@ -51,11 +51,12 @@ partial class Program
 
         Test([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]);
     }
+    static int testcount = 1;
     static void Test(int[] heights)
     {
         var solution = new Solution();
         var result = solution.MaxArea(heights);
-        Console.WriteLine($"Max Area: {result}");
+        Console.WriteLine($"{testcount}) Result: {result}");
     }
 
 }
